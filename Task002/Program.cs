@@ -9,7 +9,7 @@ int number = Convert.ToInt32(Console.ReadLine());
 
 if (number < 100)
 {
-    System.Console.WriteLine("Treteq cifri net");
+    System.Console.WriteLine("Третьей цифры нет");
 }
 
 else if (number > 100 && number < 1000)
